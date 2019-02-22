@@ -1,0 +1,33 @@
+{
+    "username": "iFish",
+    "password": "123456",
+    "root": "static",
+    "allowExtensions": [
+        "js",
+        "css",
+        "jpg",
+        "png",
+        "xml",
+        "otf",
+        "ttf",
+        "woff",
+        "eot",
+        "svg",
+        "json",
+        "ico"
+    ],
+    "mime": {
+        "js": "application/javascript",
+        "css": "text/css",
+        "jpg": "image/jpeg",
+        "png": "image/png",
+        "svg": "image/svg+xml",
+        "xml": "text/xml",
+        "json": "application/json",
+        "woff": "application/font-woff",
+        "eot": "application/vnd.ms-fontobject",
+        "otf": "application/octet-stream",
+        "ttf": "application/octet-stream",
+        "ico": "image/x-icon"
+    }
+}

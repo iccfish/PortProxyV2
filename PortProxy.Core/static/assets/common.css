@@ -1,0 +1,58 @@
+html,
+body {
+    font-size: 14px;
+    line-height: 140%;
+    margin: 0;
+    padding: 10px;
+    font-family: '微软雅黑', XHei, sans-serif;
+}
+
+table {
+    border: 1px solid #5876d0;
+    border-collapse: collapse;
+}
+
+th {
+    background: #5876d0;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid #5876d0;
+    padding: 10px;
+    background: #fff;
+}
+
+table tr:nth-child(2n-1) td {
+    background: #e8e8f0;
+}
+
+aligncenter {
+    text-align: center;
+}
+
+alignright {
+    text-align: right;
+}
+
+a:link,
+a:visited,
+a:active {
+    color: royalblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5b7ce1;
+}
+
+code {
+    background: #f1efef;
+    color: #b21919;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 3px;
+    margin-right: 5px;
+}
